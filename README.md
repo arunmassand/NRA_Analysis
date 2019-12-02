@@ -1,6 +1,6 @@
 # NRA Analysis
 
-**NOTE:** In order to run the code, you must download the ira.RData dataset into the directory.  The file was too large to add to the GitHub repository.  
+**NOTE:** In order to run the code, you must download the ira.RData dataset into the directory.  The file was too large to add to the GitHub repository.  It is best to run and view the results of the code in a Jupyter notebook.  The following is a summary and analysis of the results:
 
   In the 6 months prior to the Presidential Election in November of 2016, how do the most popular words in the original tweets compare to the most popular words in the retweets? Our motivation behind investigating this question was to see which topics the IRA promulgated on Twitter in the months leading up to the 2016 Presidential Election, or which tweets accumulated the most attention. The data set that we used was the set of 10 million tweets released by Twitter that were tweeted by accounts associated with the IRA.      
   
